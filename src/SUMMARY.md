@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why understanding the future of business with AI is important](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Business](chapter-2.md)
   - [Historical overview of AI in business](chapter-2-1.md)
