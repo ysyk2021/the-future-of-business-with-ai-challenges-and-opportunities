@@ -1,5 +1,3 @@
-How AI Works in Business
-=================================================================
 
 AI has become an increasingly important tool for businesses seeking to optimize their operations and gain a competitive advantage. In this chapter, we will explore how AI works in business.
 

@@ -1,5 +1,3 @@
-Ethical Considerations
-===============================================================
 
 As AI becomes more pervasive in business, it raises numerous ethical considerations. In this chapter, we will explore some of the key ethical challenges associated with AI in business.
 

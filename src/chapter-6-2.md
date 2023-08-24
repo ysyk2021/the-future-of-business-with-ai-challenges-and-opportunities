@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=======================================================================
 
 Resistance to change is a common challenge when implementing artificial intelligence (AI) in business. In this chapter, we will explore strategies for overcoming resistance to change to ensure the successful adoption of AI technology.
 

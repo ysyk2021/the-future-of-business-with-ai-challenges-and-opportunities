@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Business
-=========================================
 
 AI has the potential to transform numerous aspects of business operations, from marketing and sales to supply chain management. In this chapter, we will explore some of the key applications of AI in business.
 

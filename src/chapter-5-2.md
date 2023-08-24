@@ -1,5 +1,3 @@
-Customer service
-===========================================================
 
 Providing exceptional customer service is vital for businesses to maintain their competitive edge and retain customers. With the advent of artificial intelligence (AI), companies can now leverage technology to enhance their customer service capabilities, delivering personalized experiences at scale.
 

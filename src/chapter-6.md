@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI in Business
-======================================
 
 Implementing artificial intelligence (AI) in business can be a complex process. In this chapter, we will provide practical guidance on how to develop an AI strategy, overcome resistance to change, and implement best practices for AI adoption.
 

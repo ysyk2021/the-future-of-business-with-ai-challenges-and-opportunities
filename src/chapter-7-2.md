@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-============================================================================
 
 As artificial intelligence (AI) becomes increasingly prevalent in business, it is essential to ensure transparency and accountability in its use. In this chapter, we will explore strategies for managing AI in business and ensuring that it operates in a transparent and accountable manner.
 

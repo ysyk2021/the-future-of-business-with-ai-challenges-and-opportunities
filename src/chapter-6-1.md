@@ -1,5 +1,3 @@
-Developing an AI Strategy
-=================================================================
 
 Developing an AI strategy is a critical first step in implementing artificial intelligence (AI) in business. In this chapter, we will explore the key considerations and best practices for developing an AI strategy.
 

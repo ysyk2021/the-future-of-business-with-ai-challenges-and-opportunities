@@ -1,5 +1,3 @@
-Types of AI in Business
-================================================================
 
 There are several types of AI that are commonly used in business. In this chapter, we will explore the different types of AI and how they are used in business.
 

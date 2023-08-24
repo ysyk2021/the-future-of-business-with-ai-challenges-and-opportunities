@@ -1,5 +1,3 @@
-Historical Overview of AI in Business
-==============================================================================
 
 AI has a rich history of development and adoption in business. In this chapter, we will explore the historical evolution of AI in business and its current state.
 

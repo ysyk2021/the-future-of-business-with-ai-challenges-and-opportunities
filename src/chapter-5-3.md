@@ -1,5 +1,3 @@
-Supply chain management
-==================================================================
 
 Supply chain management is a critical function for businesses, impacting everything from operational efficiency to customer satisfaction. With the advent of artificial intelligence (AI), supply chain management has become even more sophisticated, enabling companies to optimize their operations and improve their bottom line.
 

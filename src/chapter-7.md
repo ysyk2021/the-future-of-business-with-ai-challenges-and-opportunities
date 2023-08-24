@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Business
-==================================
 
 As artificial intelligence (AI) becomes more pervasive in business, companies must adopt effective management practices to ensure that their AI systems are accurate, transparent, and accountable. This chapter will explore some of the key considerations for managing AI in business.
 
