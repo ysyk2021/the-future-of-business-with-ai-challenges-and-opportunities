@@ -8,3 +8,7 @@ Throughout the book, readers will find real-world examples of companies successf
 Whether you're an entrepreneur, executive, or anyone interested in the future of business with AI, this book is a must-read. Get ready to gain a deeper understanding of this transformative technology and its implications for businesses of all sizes.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
