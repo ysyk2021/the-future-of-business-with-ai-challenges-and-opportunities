@@ -1,5 +1,4 @@
-Chapter 7: Supply Chain Management
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of AI on supply chain management, a critical function for businesses worldwide. AI technologies are revolutionizing how organizations optimize their supply chains, enhance efficiency, and respond to dynamic market demands.
 

@@ -1,5 +1,4 @@
-Chapter 3: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the essential aspects of developing an AI strategy for businesses. Artificial Intelligence (AI) is rapidly transforming industries and reshaping the way organizations operate. To stay competitive and harness the full potential of AI, it is imperative to have a well-defined strategy in place.
 

@@ -1,5 +1,4 @@
-Chapter 5: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of data management in the context of AI-driven business operations. Effective data management is the cornerstone of AI success, and businesses must navigate the challenges and opportunities associated with handling data to thrive in the AI-driven future.
 

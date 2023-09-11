@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Bias in AI
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the crucial topic of addressing potential bias in AI systems. As AI becomes increasingly integrated into various aspects of business, it is essential to understand the challenges related to bias and implement strategies to mitigate its impact.
 

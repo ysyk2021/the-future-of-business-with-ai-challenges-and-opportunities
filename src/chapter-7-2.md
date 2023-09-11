@@ -1,5 +1,4 @@
-Chapter 8: Ensuring Transparency and Accountability in AI
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical aspects of ensuring transparency and accountability in the use of AI within businesses. As AI systems become increasingly integrated into various facets of operations, transparency and accountability are essential to maintain trust, mitigate risks, and navigate ethical concerns.
 

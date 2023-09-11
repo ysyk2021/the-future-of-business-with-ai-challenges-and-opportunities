@@ -1,5 +1,4 @@
-Chapter 12: Emerging Trends in the Age of AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting and rapidly evolving landscape of emerging trends in the integration of artificial intelligence (AI) into business operations. These trends are shaping the future of business and presenting new opportunities and challenges for organizations worldwide.
 

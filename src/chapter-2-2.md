@@ -1,5 +1,4 @@
-Chapter 3: Types of AI in Business
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse spectrum of AI technologies and their applications within the business landscape. Understanding the different types of AI is crucial for organizations seeking to harness the power of artificial intelligence effectively.
 

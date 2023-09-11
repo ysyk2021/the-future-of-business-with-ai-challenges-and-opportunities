@@ -1,5 +1,4 @@
-Chapter 6: Customer Service in the AI Era
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative impact of AI on customer service, a vital component of modern businesses. AI technologies are reshaping the way organizations engage with customers, deliver support, and enhance overall customer experiences.
 

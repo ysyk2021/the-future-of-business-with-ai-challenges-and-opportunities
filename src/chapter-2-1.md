@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI in Business
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will embark on a journey through the historical evolution of Artificial Intelligence (AI) in the business world. Understanding the milestones and key developments in the intersection of AI and business provides valuable insights into the challenges and opportunities that lie ahead.
 

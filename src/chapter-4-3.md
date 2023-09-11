@@ -1,5 +1,4 @@
-Chapter 5: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical considerations surrounding privacy and security in the context of AI-driven businesses. As organizations increasingly rely on AI technologies, it becomes paramount to address the associated risks and safeguards related to data privacy and system security.
 

@@ -1,5 +1,4 @@
-Chapter 4: How AI Works in Business
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the mechanics and applications of AI in the business realm. We'll uncover how businesses of all sizes and from diverse sectors are harnessing AI to drive innovation, streamline operations, and create competitive advantages.
 

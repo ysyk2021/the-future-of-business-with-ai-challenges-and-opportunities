@@ -1,5 +1,4 @@
-Chapter 7: Marketing and Sales in the Age of AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the dynamic landscape of marketing and sales in the context of AI adoption. The integration of AI technologies is revolutionizing how businesses engage with customers, optimize marketing strategies, and drive sales growth.
 

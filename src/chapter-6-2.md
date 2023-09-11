@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we address one of the most formidable challenges in adopting AI technologies in business---the resistance to change. While AI offers numerous opportunities for innovation and growth, it often encounters resistance from employees, leaders, and stakeholders. This chapter explores the reasons behind this resistance and provides strategies to overcome it.
 

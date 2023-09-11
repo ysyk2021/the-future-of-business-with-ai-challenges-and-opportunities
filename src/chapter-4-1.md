@@ -1,5 +1,4 @@
-Chapter 8: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical ethical considerations that businesses must navigate when integrating AI into their operations. As AI becomes more pervasive, ensuring that it aligns with ethical principles is paramount for long-term success and responsible business practices.
 
